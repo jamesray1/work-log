@@ -6,6 +6,7 @@ My achievements include:
 * suggesting the development of [a website for Australia](https://www.sungrowpower.com.au/) (which is intended more for after sales support, but does include product info), overseeing it's development by another colleague on Zoho sites, then editing it myself, including adding a bot, more documents, updating and adding links e.g. to surveys and a map of service partners, installers and contractors (all of which I made), and other minor edits / proofreading.
 * designing, collecting and handling responses for surveys for customers for warranty cases, general cases and for installers;
 * training technical support engineers;
+* presenting at an Australian Solar Council installer training event in South Australia to promote our solar hybrid inverter and battery system, the PowCube 4.8, consisting of the SH5K inverter and the SBP4K8 battery;
 * managing logistics, warehouse and inventory control;
 * liaising with electrical contractors to organise on-site service;
 * providing feedback for existing products and services and for potential growth areas with new product development, such as improvements to the LCD, automatic settings adjustment for certain faults and CT clamp design. More feedback has been kept and may be available on request.
