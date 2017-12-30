@@ -11,7 +11,7 @@ My achievements include:
 * providing feedback for existing products and services and for potential growth areas with new product development, such as improvements to the LCD, automatic settings adjustment for certain faults and CT clamp design. More feedback may be available on request.
 * improving efficiency with canned responses in Gmail (later using Zoho with Templates), including Dropbox links (later using Google Drive); data entry with more streamlined spreadsheets (including adding spreadsheets for enquiries that need following up, and feedback spreadsheets); and procuring headsets instead of using a handset for the phones;
 * creating and managing a survey for customers who had their inverter replaced, collecting responses via email and phone, analysing results, and following up on feedback for improvement;
-* creating Twitter accounts for a global account, [@SungrowPowerSCo](https://twitter.com/sungrowpowersco) and an Australian account, [@SungrowPowerAU](https://twitter.com/SungrowPowerAU) while giving access to both accounts to a colleague about a week or two after creating the Australian account;
+* creating Twitter accounts for a global account, [@SungrowPowerSCo](https://twitter.com/sungrowpowersco), and an Australian account, [@SungrowPowerAU](https://twitter.com/SungrowPowerAU), while giving access to both accounts to a colleague about a week or two after creating the Australian account;
 * investigating requirements from TNSPs & DNSPs for utility scale inverters; and
 * contacting customers of an installer—who is a defendant of a lawsuit;and
 * other research and ad-hoc projects.
