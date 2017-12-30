@@ -14,4 +14,4 @@ My achievements include:
 * contacting customers of an installer—who is a defendant of a lawsuit; and
 * other research and ad-hoc projects.
 
-Note: I have a timesheet but it may be best not to share it, as it contains info about my remuneration.
+Here is my [timesheet for work with Sungrow](https://docs.google.com/spreadsheets/d/1Enxd5syb5wdA_HDEr8-V3-nhOqSJPXh9FejLDybH9RA/edit?usp=sharing).
