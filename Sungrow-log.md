@@ -20,3 +20,5 @@ My achievements include:
 * additional documentation of tasks has been recorded via Zoho Projects.
 
 I have a timesheet, but it is probably best to treat that as confidential information as it includes remunerative info, while it has limited additional info, if any, about the tasks I have completed.
+
+In February 2018 I will discontinue work in the position, the reason for that is available [here](https://sustergy.wordpress.com/2018/01/17/finishing-position-at-sungrow/).
