@@ -1,9 +1,10 @@
 # work-log
+
+My latest work is [Drops of Diamond](https://github.com/Drops-of-Diamond/Diamond-drops), a WIP sharding implementation in Rust.
+
 I am not an employee or contractor of the Ethereum Foundation.
 
 Here is my [timesheet for Ethereum work](https://docs.google.com/spreadsheets/d/1dDglpWBhWlPyv0tfDntPQc8F-yBsP41wFQnIKgwA068).
-
-My latest work is (Drops of Diamond](https://github.com/Drops-of-Diamond/Diamond-drops), a WIP sharding implementation in Rust.
 
 <a href="https://www.ethereum.org/" target="_blank" rel="noopener noreferrer">Ethereum</a> <a href="https://en.wikipedia.org/wiki/Ethereum" target="_blank" rel="noopener">intro</a>: Ethereum is a "<a href="https://m.youtube.com/watch?v=j23HnORQXvs" target="_blank" rel="noopener noreferrer">world computer</a>", a "<a href="http://ethdocs.org/en/latest/introduction/what-is-ethereum.html" target="_blank" rel="noopener noreferrer">programmable blockchain</a>", and a "<a href="https://github.com/ethereum/yellowpaper/pull/376" target="_blank" rel="noopener noreferrer">secure decentralised generalised transaction ledger</a>", that can lower transaction costs for virtually (no pun intended) any transaction or agreement that can be programmed on a computer. For further info you can also read a wiki that I've made <a href="https://github.com/ethereum/wiki/wiki/Ethereum-introduction" target="_blank" rel="noopener">here</a>.
 
