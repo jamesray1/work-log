@@ -2,6 +2,8 @@
 
 My latest work is [Drops of Diamond](https://github.com/Drops-of-Diamond/Diamond-drops), a WIP sharding implementation in Rust.
 
+Here is a [timesheet for Drops of Diamond work](https://docs.google.com/spreadsheets/d/1Fv8XqLkMjdBkGPkVWfJulJU-5Qv6TSUR4oD5uKSEHW0/edit?usp=sharing).
+
 I am not an employee or contractor of the Ethereum Foundation.
 
 Here is my [timesheet for Ethereum work](https://docs.google.com/spreadsheets/d/1dDglpWBhWlPyv0tfDntPQc8F-yBsP41wFQnIKgwA068).
